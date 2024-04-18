@@ -1,0 +1,12 @@
+Enmcabezados de inicio 
+HEAD01
+HEAD02
+
+Cuerpo del archivo 
+
+BODY01
+
+
+Fin de página 
+FOOT01
+

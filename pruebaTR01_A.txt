@@ -1,0 +1,8 @@
+Enmcabezados de inicio 
+HEAD01
+HEAD02
+
+Cuerpo del archivo 
+
+BODY01
+

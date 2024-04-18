@@ -6,3 +6,7 @@ Cuerpo del archivo
 
 BODY01
 
+
+Fin de página 
+FOOT01
+

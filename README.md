@@ -1,1 +1,1 @@
-# Aquí se proebará como funcionan GitFlow
+# Aquí se probará como funcionan GitFlow

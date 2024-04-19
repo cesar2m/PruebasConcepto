@@ -1,6 +1,6 @@
 Enmcabezados de inicio 
-HEAD01
-HEAD02
+HEAD01_B
+HEAD02_B
 
 Cuerpo del archivo 
 
@@ -8,5 +8,7 @@ BODY01
 
 
 Fin de página 
-FOOT01
+FOOT01_B
 
+---- 
+A partir de aquí es para TR01_B

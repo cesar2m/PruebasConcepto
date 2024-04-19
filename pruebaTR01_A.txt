@@ -2,11 +2,11 @@
 Enmcabezados de inicio 
 --- TR01_C_AUX Se necesita avisar que se hizo lago auxiliar.
 HEAD01
-HEAD02
+HEAD02_A
 
 Cuerpo del archivo 
 
-BODY01
+BODY01_A
 
 
 Fin de página 

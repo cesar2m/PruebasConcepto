@@ -1,4 +1,6 @@
+
 Enmcabezados de inicio 
+--- TR01_C_AUX Se necesita avisar que se hizo lago auxiliar.
 HEAD01
 HEAD02
 
